@@ -3,4 +3,8 @@ pandas
 plotly
 psycopg2-binary
 sqlalchemy
+<<<<<<< HEAD
 openpyxl
+=======
+openpyxl
+>>>>>>> 42054d8cfb984b3ce468bec4e7ac6dd4c3b21757
